@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Svetlana Kulakova](https://up.htmlacademy.ru/javascript/28/user/2154631).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Лепёшкин](https://htmlacademy.ru/profile/spearance).
 
 ---
 
